@@ -76,7 +76,7 @@
     // Get latest photos according to geolocation for Växjö
     // $geo = $instagram->searchMedia(56.8770413, 14.8092744);
 
-    $tag = 'sancocho';
+    $tag = 'quieroaccess';
 
     // Get recently tagged media
     $media = $instagram->getTagMedia($tag);
